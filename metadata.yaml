@@ -1,0 +1,26 @@
+_repo: The-Preacher-s-Complete-Homiletic-Commentary-of-the-Books-of-the-Bible-Volume-29-of-32-The-Pr__62148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barlow, George
+    gutenberg_agent_id: '51795'
+    url: http://www.gutenberg.org/2009/agents/51795
+description: ''
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Commentaries'
+- !lcc 'BS'
+- !lcsh 'Bible. Epistles of Paul -- Commentaries'
+- GITenberg
+title: "The Preacher's Complete Homiletic Commentary of the Books of the Bible: Volume\
+  \ 29 (of 32)\r\nThe Preacher's Complete Homiletic Commentary of the Epistles of\
+  \ St. Paul the Apostle: Galatians, Ephesians, Philippians, Colossians, and I-II\
+  \ Thessalonians"
+url: http://www.gutenberg.org/ebooks/62148
