@@ -1,11 +1,16 @@
 _repo: The-Preacher-s-Complete-Homiletic-Commentary-of-the-Books-of-the-Bible-Volume-29-of-32-The-Pr__62148
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barlow, George
     gutenberg_agent_id: '51795'
     url: http://www.gutenberg.org/2009/agents/51795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62148#The-Preacher-s-Complete-Homiletic-Commentary-of-the-Books-of-the-Bible-Volume-29-of-32-The-Pr_
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
